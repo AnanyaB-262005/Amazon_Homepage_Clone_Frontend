@@ -39,7 +39,6 @@ To run this project locally:
    cd amazon-homepage-clone-frontend
    
 3.Open index.html in your browser:
-  ```bash
    start index.html   # (on Windows)
    open index.html    # (on Mac)
 
