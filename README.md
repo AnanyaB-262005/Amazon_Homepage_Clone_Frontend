@@ -43,25 +43,25 @@ To run this project locally:
    start index.html   # (on Windows)
    open index.html    # (on Mac)
 
-**## 🧰 Built With **
+## 🧰 Built With 
 
-**HTML5**
-**CSS3** (Flexbox, custom styling)
-**Vanilla JavaScript**
+HTML5
+CSS3 (Flexbox, custom styling)
+Vanilla JavaScript
 
-**## 🧠 Future Improvements**
+## 🧠 Future Improvements
 
 Mobile responsiveness enhancements
 Add user authentication (sign in)
 Integrate backend APIs for real data
 Add functional cart and order pages
 
-**## 📜 License**
+## 📜 License
 
 This project is for educational purposes only.
 Amazon's name, logo, and design are trademarks of Amazon.com, Inc.
 
-**## 🙋 Author**
+## 🙋 Author
 
 Ananya.B
 GitHub: @AnanyaB-262005
